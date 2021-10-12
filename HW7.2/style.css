@@ -26,6 +26,7 @@ li{
     font-size: 25px;
     height: 25%;
     width: 25%;
+    transition: all .1s ease-in;
 }
 
 li:first-child{
@@ -75,7 +76,6 @@ li:nth-child(9){
 
 li:hover{
     opacity: 0.5;
-    transition: all .1s ease-in;
 }
 
 .last{
